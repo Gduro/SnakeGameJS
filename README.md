@@ -19,7 +19,7 @@ Snake Game made in JavaScript
 Clone the project
 
 ```bash
-  git clone [https://github.com/Gduro/SnakeGameJS.git]
+  git clone (https://github.com/Gduro/SnakeGameJS.git)
 ```
 
 Go to the project directory
