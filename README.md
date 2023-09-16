@@ -19,13 +19,13 @@ Snake Game made in JavaScript
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [(https://github.com/Gduro/SnakeGameJS.git)]
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd SnakeGameJS
 ```
 Start HTML file
 
